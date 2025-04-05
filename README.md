@@ -73,7 +73,7 @@ Ensure you have the following installed:
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/prafulkorat/google_pay/main/assets/google_pay.gif" target="_blank">
-    <img src="https://raw.githubusercontent.com/prafulkorat/google_pay/main/assets/google_pay.gif" width="600" alt="Google Pay Demo" />
+    <img src="https://raw.githubusercontent.com/prafulkorat/google_pay/main/assets/google_pay.gif" width="300" alt="Google Pay Demo" />
   </a>
 </p>
 
