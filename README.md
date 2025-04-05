@@ -69,5 +69,11 @@ Ensure you have the following installed:
     - If using an emulator, ensure it is running.
     - If using a physical device, enable USB debugging.
 
-![Google Pay Demo](assets/google_pay.gif)
+## 🎥 Demo Preview
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/prafulkorat/google_pay/main/assets/google_pay.gif" target="_blank">
+    <img src="https://raw.githubusercontent.com/prafulkorat/google_pay/main/assets/google_pay.gif" width="600" alt="Google Pay Demo" />
+  </a>
+</p>
 
