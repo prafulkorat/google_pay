@@ -69,3 +69,7 @@ Ensure you have the following installed:
     - If using an emulator, ensure it is running.
     - If using a physical device, enable USB debugging.
 
+<video width="600" controls>
+  <source src="assets/google_pay.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
